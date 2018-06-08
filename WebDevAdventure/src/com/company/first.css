@@ -1,0 +1,36 @@
+/*first.css
+
+ */
+
+header,footer{
+
+    background-color: blueviolet;
+    border: solid 1px red;
+    font-family: Times New Roman;
+}
+
+footer{
+
+    padding: 10px;
+    border-radius: 3px;
+}
+
+
+
+body{
+
+    font-family: Segoe UI Black,Arial;
+    font-size: 14px;
+    color: cornflowerblue;
+    margin: 100px 100px 100px 100px;
+    padding: 5px;
+}
+
+#main{
+
+
+    border: 1px darkslategrey;
+    font-family: DejaVu Sans;
+    color: yellow;
+
+}
